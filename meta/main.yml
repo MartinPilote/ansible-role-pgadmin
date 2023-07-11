@@ -1,0 +1,14 @@
+---
+dependencies:
+  - repo-epel
+
+galaxy_info:
+  author: Martin Pilote
+  description: 'Ansible role to install pgAdmin'
+  repository: 'https://github.com/MartinPilote/ansible-role-pgadmin'
+  license: 'MIT'
+  min_ansible_version: 2.4
+  platforms:
+  - name: 'EL'
+    versions:
+    - all
